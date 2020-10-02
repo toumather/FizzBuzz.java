@@ -1,4 +1,4 @@
-    public class Fizz2 {
+    public class FizzBuzz {
     public static void main(String[] args) {
 
     	//pour calculer le temps d'exécution du programme
